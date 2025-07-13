@@ -21,13 +21,21 @@ It uses a **TF-IDF vectorizer** and a **PassiveAggressiveClassifier** to classif
 fake-news-detection-app/
 │
 ├── app.py # Streamlit frontend
+
 ├── model.pkl # Trained ML model (PassiveAggressiveClassifier)
+
 ├── tfidf.pkl # Saved TF-IDF vectorizer
+
 ├── Fake.csv # Fake news dataset
+
 ├── True.csv # Real news dataset
+
 ├── train_model.ipynb # Jupyter Notebook to train and save model
+
 ├── sample_inputs.txt # Sample texts for testing
+
 ├── requirements.txt # List of dependencies
+
 └── README.md # Project description (this file)
 
 ## 🔍 How to Run the Project
