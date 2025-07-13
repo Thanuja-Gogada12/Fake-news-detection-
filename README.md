@@ -33,16 +33,21 @@ fake-news-detection-app/
 ## 🔍 How to Run the Project
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/fake-news-detection-app.git
+git clone https://github.com/Thanuja-Gogada12/Fake-news-detection.git
+
 cd fake-news-detection-app
+
 2. Install dependencies
 Make sure you have Python installed, then run:
 pip install -r requirements.txt
+
 3. Run the Streamlit app
 streamlit run app.py
+
 🧪 Sample Inputs for Testing
 Here are some examples you can use in the app:
 ✅ Real News
+
 NASA announces new Artemis moon mission timeline
 ❌ Fake News
 Pope Francis endorses Donald Trump for re-election campaign
